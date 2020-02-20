@@ -52,6 +52,11 @@ body
 	font-size: 0.8em;
 }
 
+#p-img
+{
+	text-align: center;
+}
+
 #footer
 {
 	background: #777;
