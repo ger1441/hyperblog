@@ -1,4 +1,4 @@
-# Hyperblog :fa-user:
+# Hyperblog 🐧
 Un blog increible para el curso de git y github de Platzi
 
 >Este es un curso que me ayudó a comprender mejor la herramienta GIT así como un uso básico pero escencial de GITHUB
@@ -33,3 +33,4 @@ En este curso aprendí
 - Mostrar un entorno más visual ( gitk )
 
 >Y aún queda bastante por aprender...
+
