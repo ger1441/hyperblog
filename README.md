@@ -31,6 +31,7 @@ En este curso aprendí
 - Eliminar el tag remoto ( git push origin :refs/tags/nombre_tag )
 - Mostrar el histórico de ramas ( git show-branch --all )
 - Mostrar un entorno más visual ( gitk )
+- Reescribir la historia de un repositorio ( git rebase )
 
 >Y aún queda bastante por aprender...
 
