@@ -32,6 +32,9 @@ En este curso aprendí
 - Mostrar el histórico de ramas ( git show-branch --all )
 - Mostrar un entorno más visual ( gitk )
 - Reescribir la historia de un repositorio ( git rebase )
+- Guardar los cambios en memoria, mostrarlos, sacarlos, crear una rama a partir de ello y borrar la memoria
+( git stash [list|pop|branch nombre_rama|drop])
+- Simular y borrar archivos que no se ocuparán ( git clone [--dry-run|-f])
 
 >Y aún queda bastante por aprender...
 
